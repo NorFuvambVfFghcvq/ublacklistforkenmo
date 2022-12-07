@@ -1,1 +1,2 @@
 # ublacklistforkenmo
+ublacklistでネトウヨ系まとめサイトやまとめブログとかをブロックするやつ
